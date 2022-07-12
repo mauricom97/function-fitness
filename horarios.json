@@ -1,0 +1,9 @@
+{
+    "horarios":[
+        {
+            "horario": "08:00",
+            "commercials":[1,2],
+            "atividades":[1,2]
+        }
+    ]
+}
